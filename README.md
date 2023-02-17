@@ -2,7 +2,7 @@
 <p align="center">
   <img src="assets/logo(1).jpg" alt="Akbotmakersnew Logo">
 </p>
-print("Welcome to LUCIFER")
+Print("Welcome to LUCIFER")
 <h1 align="center">
   <b>LUCIFER BOT</b>
 </h1>
